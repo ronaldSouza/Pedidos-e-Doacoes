@@ -1,0 +1,143 @@
+$argon-background-color: #ffffff; // Testing
+$font-color:            #67748e;
+$h-color:               #344767;
+
+// Color system
+
+$white:    #fff;
+$gray-100: #f8f9fa;
+$gray-200: #e9ecef;
+$gray-300: #dee2e6;
+$gray-400: #ced4da;
+$gray-500: #adb5bd;
+$gray-600: #6c757d;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
+$black:    #000;
+
+// fusv-enable
+
+$blue:    #63B3ED;
+$indigo:  #596CFF;
+$purple:  #6f42c1;
+$pink:    #d63384;
+$red:     #F56565;
+$orange:  #fd7e14;
+$yellow:  #FBD38D;
+$green:   #81E6D9;
+$teal:    #20c997;
+$cyan:    #0dcaf0;
+
+// scss-docs-start colors-map
+$colors: (
+  "blue":       $blue,
+  "indigo":     $indigo,
+  "purple":     $purple,
+  "pink":       $pink,
+  "red":        $red,
+  "orange":     $orange,
+  "yellow":     $yellow,
+  "green":      $green,
+  "teal":       $teal,
+  "cyan":       $cyan,
+  "white":      $white,
+  "gray":       $gray-600,
+  "gray-dark":  $gray-800,
+);
+// scss-docs-end colors-map
+
+$primary:       #9d0d0d;
+$secondary:     #2f3624;
+$info:          #b4ccbc;
+$success:       #2dce89;
+$warning:       #fb6340;
+$danger:        #f5365c;
+$light:         $gray-200;
+$dark:          $h-color;
+
+$red: #d41e1e;
+$green: #2f3624;
+$brown: #a26a2b;
+
+$theme-colors: (
+  "primary":    $primary,
+  "secondary":  $secondary,
+  "red":  $red,
+  "green":  $green,
+  "brown":  $brown,
+  "success":    $success,
+  "info":       $info,
+  "warning":    $warning,
+  "danger":     $danger,
+  "light":      $light,
+  "dark":       $dark,
+  "white":      $white
+);
+// Gradient colors
+// $primary-gradient:            #5e72e4;
+// $primary-gradient-state:      #825ee4;
+$primary-gradient:            $primary;
+$primary-gradient-state:      #ec6e6d;
+
+// $secondary-gradient:          #627594;
+// $secondary-gradient-state:    #a8b8d8;
+
+$secondary-gradient:          $secondary;
+$secondary-gradient-state:    #509c56;
+
+$red-gradient:                #d41e1e;
+$red-gradient-state:          #ec6e6d;
+
+$green-gradient:              #3c8c3c;
+$green-gradient-state:        #509c56;
+
+$info-gradient:               #6fa080;
+$info-gradient-state:         #b4ccbc;
+
+$success-gradient:            #2dce89;
+$success-gradient-state:      #2dcecc;
+
+$danger-gradient:             #f5365c;
+$danger-gradient-state:       #f56036;
+
+$warning-gradient:            #fb6340;
+$warning-gradient-state:      #fbb140;
+
+$dark-gradient:               #212229;
+$dark-gradient-state:         #212529;
+
+$light-gradient:              #CED4DA;
+$light-gradient-state:        #EBEFF4;
+
+$dark-gradient-dark:          #323a54;
+$dark-gradient-state-dark:    #1a2035;
+
+$text-gradient-bg-primary:    linear-gradient(310deg, $primary-gradient, $primary-gradient-state);
+$text-gradient-bg-secondary:    linear-gradient(310deg, $secondary-gradient, $secondary-gradient-state);
+$text-gradient-bg-red:    linear-gradient(310deg, $red-gradient, $red-gradient-state);
+$text-gradient-bg-green:    linear-gradient(310deg, $green-gradient, $green-gradient-state);
+$text-gradient-bg-info:       linear-gradient(310deg, $info-gradient, $info-gradient-state);
+$text-gradient-bg-success:    linear-gradient(310deg, $success-gradient, $success-gradient-state);
+$text-gradient-bg-warning:    linear-gradient(310deg, $warning-gradient, $warning-gradient-state);
+$text-gradient-bg-danger:     linear-gradient(310deg, $danger-gradient, $danger-gradient-state);
+$text-gradient-bg-dark:       linear-gradient(310deg, $dark-gradient, $dark-gradient-state);
+
+// Gradient Colors map
+$theme-gradient-colors: (
+  "primary":    ($primary-gradient, $primary-gradient-state),
+  "secondary":  ($secondary-gradient, $secondary-gradient-state),
+  "red":  ($red-gradient, $red-gradient-state),
+  "green":  ($green-gradient, $green-gradient-state),
+  "success":    ($success-gradient, $success-gradient-state),
+  "info":       ($info-gradient, $info-gradient-state),
+  "warning":    ($warning-gradient, $warning-gradient-state),
+  "danger":     ($danger-gradient, $danger-gradient-state),
+  "light":      ($light-gradient, $light-gradient-state),
+  "dark":       ($dark-gradient, $dark-gradient-state)
+);
+
+$text-secondary:     $info;
+
+// Required
+@import "../variables";

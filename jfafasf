@@ -1,0 +1,96 @@
+[33mcommit b245e459221cfdcda81aec3fa06050dec067ec15[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Ronald Souza <telles.s@escolar.ifrn.edu.br>
+Date:   Sun Oct 30 13:06:10 2022 -0300
+
+    criado tabela doacao_dos_pedidos e index do adm
+
+[33mcommit e044ea7ea11b43e40e63756f56914d78cb9446b2[m
+Author: Ronald Souza <telles.s@escolar.ifrn.edu.br>
+Date:   Sat Oct 29 22:53:43 2022 -0300
+
+    Mudança no DB, criado telas de show e list do Adm
+
+[33mcommit 310eeb5cf6eb2ed4b7bfb3b97d6d68dc4d0d7bba[m
+Author: Ronald Souza <telles.s@escolar.ifrn.edu.br>
+Date:   Sat Oct 29 21:22:34 2022 -0300
+
+    criado user admin
+
+[33mcommit e810ef2d234825de915fa160a2e3cd4a4e6e09e4[m
+Author: Ronald Souza <telles.s@escolar.ifrn.edu.br>
+Date:   Sat Oct 29 19:29:49 2022 -0300
+
+    consertado erro no login
+
+[33mcommit c43908d9792acf3f89dbc8758956be7359733ae0[m
+Author: Ronald Souza <telles.s@escolar.ifrn.edu.br>
+Date:   Sat Oct 29 18:43:27 2022 -0300
+
+    criado perfil de usuario com userController
+
+[33mcommit a3a2a36868005dcccd963d05a0808394536ee517[m
+Author: Ronald de Souza Telles Aragão <telles.s@escolar.ifrn.edu.br>
+Date:   Thu Oct 27 17:40:05 2022 -0300
+
+    show dos pedidos, create e store das doacoes
+
+[33mcommit 29867b1a971af0bce3fc244e47d6a669b1a7037e[m
+Author: Ronald de Souza Telles Aragão <telles.s@escolar.ifrn.edu.br>
+Date:   Wed Oct 26 17:51:33 2022 -0300
+
+    iniciado list pedidos
+
+[33mcommit f56d5237981a15f63d8c9c7a718a5b7414d18f84[m
+Author: Ronald de Souza Telles Aragão <telles.s@escolar.ifrn.edu.br>
+Date:   Wed Oct 26 17:11:34 2022 -0300
+
+    criado rota e create de pedidos
+
+[33mcommit c8b7cc62fcb7f58aefc80f4689c72ddd56b7afd3[m
+Author: Ronald Souza <telles.s@escolar.ifrn.edu.br>
+Date:   Mon Oct 24 22:49:45 2022 -0300
+
+    modificado registro de usuários
+
+[33mcommit 493b1563e80f5d4cc71e1be1a8a7a03f4839a986[m
+Author: Ronald Souza <telles.s@escolar.ifrn.edu.br>
+Date:   Sun Oct 23 23:49:11 2022 -0300
+
+    atualizado registro de usuarios
+
+[33mcommit 28522fec8d806d6a1c4288ab0d0bac65243d4893[m
+Author: Ronald Souza <telles.s@escolar.ifrn.edu.br>
+Date:   Sun Oct 23 22:49:49 2022 -0300
+
+    adicionado registro de usuarios
+
+[33mcommit a069ed16b28e055265fbeb5830c9d1633b618d3e[m
+Author: Ronald Souza <telles.s@escolar.ifrn.edu.br>
+Date:   Sun Oct 23 16:26:52 2022 -0300
+
+    criado rotas, adicionado template, criado login e logout
+
+[33mcommit 696fb7fa150ac74a606e19b321060c9b765fdbc5[m
+Merge: 833edd2 f1c949d
+Author: Ronald Souza <telles.s@escolar.ifrn.edu.br>
+Date:   Sat Oct 22 09:22:14 2022 -0300
+
+    Merge branch 'main' of https://github.com/ronaldSouza/Pedidos-e-Doacoes
+
+[33mcommit f1c949dd90f1599a3981f11fe0d1793f70c7754c[m
+Author: ronaldSouza <telles.s@escolar.ifrn.edu.br>
+Date:   Sat Oct 22 09:33:44 2022 -0300
+
+    Delete README.md
+
+[33mcommit 902462e74dab44af34e88a92a91714612fc5538a[m
+Author: ronaldSouza <telles.s@escolar.ifrn.edu.br>
+Date:   Sat Oct 22 09:30:01 2022 -0300
+
+    Initial commit
+
+[33mcommit 833edd28df62ef958d5d4e3eccf90dfd632afad2[m
+Author: Ronald Souza <telles.s@escolar.ifrn.edu.br>
+Date:   Thu Oct 13 20:49:33 2022 -0300
+
+    criado migrations do banco de dados

@@ -1,0 +1,118 @@
+.img-bg-1 {
+    background-image: url('../img/balls-tree.jpg');
+    background-repeat: no-repeat;
+    background-position: 0% 20%;
+    background-size: cover;
+}
+
+.img-bg-2 {
+    background-image: url('../img/two-trees.jpg');
+    background-repeat: no-repeat;
+    background-position: 0% 20%;
+    background-size: cover;
+}
+
+.img-bg-kid {
+    background-image: url('../img/kid-writing.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-bg-girl {
+    background-image: url('../img/girl-drawing.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-bg-gifts {
+    background-image: url('../img/gifts.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-samuel {
+    background-image: url('../img/photos/samuel.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-sayonara {
+    background-image: url('../img/photos/sayonara.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-ronald {
+    background-image: url('../img/photos/ronald.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-julio {
+    background-image: url('../img/photos/julio.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.filter-dark-75 {
+    filter: brightness(75%);
+}
+
+.filter-dark-50 {
+    filter: brightness(50%);
+
+}
+
+.filter-dark-25 {
+    filter: brightness(25%);
+}
+
+
+/* fonts */
+.font-courier-new {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.font-franklin-ghotic-md {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.font-gill-sans {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.font-lucida-sans {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.font-segoe-ui {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.font-times-new-roman {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.font-trebuchet-ms {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.font-arial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.font-cambria {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.font-georgia {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.font-impact {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.font-verdana {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
